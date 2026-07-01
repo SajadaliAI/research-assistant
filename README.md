@@ -38,7 +38,7 @@ pip install -r requirements.txt
 Configuration
 Create a .env file at the repository root and add your API keys:
 
-GOOGLE_API_KE="your-openai-api-key"
+GOOGLE_API_KEY="your-openai-api-key"
 TAVILY_API_KEY="your-tavily-api-key"
 Do not commit your .env file or secret keys to source control.
 
